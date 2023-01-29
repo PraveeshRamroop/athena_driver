@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "341507463774",
+    "project_id": "athena-user",
+    "storage_bucket": "athena-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341507463774:android:5ceb2a02df1f0d900232cf",
+        "android_client_info": {
+          "package_name": "com.praveeshramroop.athena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341507463774-e98ce596de7ddau6hu592vpags7q37gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYgRb1-ihsRUkmCjnMvFyBBS7Yi52rPjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341507463774-e98ce596de7ddau6hu592vpags7q37gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341507463774:android:4a39e5078e6126c20232cf",
+        "android_client_info": {
+          "package_name": "com.praveeshramroop.athena_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341507463774-e98ce596de7ddau6hu592vpags7q37gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYgRb1-ihsRUkmCjnMvFyBBS7Yi52rPjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341507463774-e98ce596de7ddau6hu592vpags7q37gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
